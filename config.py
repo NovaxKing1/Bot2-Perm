@@ -19,12 +19,12 @@ API_HASH = "fdafb41f9a67f40e34a6c67f47730a92"  # Hardcoded as per original
 
 # Database Configuration
 DB_URI = os.environ.get("DATABASE_URL", "")
-DB_NAME = os.environ.get("DATABASE_NAME", "bot13")
+DB_NAME = os.environ.get("DATABASE_NAME", "KZENDB")
 
 # Channel & Owner Details
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001973418807"))
-OWNER = os.environ.get("OWNER", "iBOXTVADS")
-OWNER_ID = int(os.environ.get("OWNER_ID", "6124171612"))
+OWNER = os.environ.get("OWNER", "Roverxstar")
+OWNER_ID = int(os.environ.get("OWNER_ID", "7106166920"))
 
 # Bot Working Port
 PORT = int(os.environ.get("PORT", "8030"))  # Not strictly required for basic functionality
@@ -53,7 +53,7 @@ except ValueError:
 START_MSG = os.environ.get(
     "START_MESSAGE",
     "<b>👋 Hello, {first}!</b>\n\n"
-    "I am <b>iBOX TV File Share Bot</b>. 📺\n"
+    "I am <b>K-ZEN TV File Share Bot</b>. 📺\n"
     "Click on the <b>Season</b> or <b>Episode</b> buttons sent by the admin to fetch your favorite TV shows! 🎬"
 )
 
