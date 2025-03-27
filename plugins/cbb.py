@@ -20,7 +20,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
                 "⚧️ **Our Community & Updates:**\n"
                 "🕴️ <b>Owner:</b> <a href='tg://user?id={OWNER_ID}'>Ads & Promos</a>\n"
                 "📺 <b>Updates:</b> <a href='https://t.me/K_ZenTv'>K-Zen Tv</a>\n"
-                "🍿 <b>Movies Channel:</b> <a href='https://t.me/K_ZenMovies'>K-ZEN MOVIES</a>\n"
+                "🍿 <b>Movies Channel:</b> <a href='https://t.me/K_ZenMovies'>K-Zen Movies</a>\n"
                 "🌍 <b>Community:</b> <a href='https://t.me/+npjbj_z59uYyZTM0'>Request Series</a>\n"
                 "🔎 <b>Movie Search Chat:</b> <a href='https://t.me/+bc4ZizsFnoZjYzU0'>K-Zen Movie Requests</a>\n\n"
                 "✨ **Enjoy a seamless movie experience with us!** 🍿🎥"
